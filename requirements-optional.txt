@@ -1,0 +1,6 @@
+# Optional — only needed for Section 13 (LSTM machine-learning forecast).
+# TensorFlow currently supports Python 3.10-3.13 only (not 3.14+).
+# Install this file separately, and only if your Python version is 3.10-3.13:
+#   pip install -r requirements-optional.txt
+scikit-learn
+tensorflow

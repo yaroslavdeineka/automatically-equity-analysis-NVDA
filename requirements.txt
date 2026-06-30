@@ -1,0 +1,7 @@
+# Core dependencies — required to run the analysis (fundamentals, technical
+# indicators, CAPM). These install on any modern Python version, including 3.14.
+numpy
+pandas
+yfinance
+statsmodels
+matplotlib
